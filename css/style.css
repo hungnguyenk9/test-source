@@ -278,6 +278,7 @@ a:focus {
           align-items: center;
   background-size: cover;
   background-position: bottom;
+  background-color:#05810b; 
 }
 
 .slider_section .row {
@@ -298,11 +299,11 @@ a:focus {
 .slider_section .detail-box h1 {
   font-weight: bold;
   margin-bottom: 25px;
-  color: #0355cc;
+  /* color: #5f3a3a; */
 }
 
 .slider_section .detail-box p {
-  color: #444;
+  /* color: #444; */
   font-size: 15px;
 }
 
@@ -326,7 +327,9 @@ a:focus {
 .slider_section .img-box img {
   width: 100%;
 }
-
+.slider_section .company-name {
+  color: #ffffff;
+}
 .feature_section {
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
