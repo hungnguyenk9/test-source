@@ -278,7 +278,7 @@ a:focus {
           align-items: center;
   background-size: cover;
   background-position: bottom;
-  background-color:#05810b; 
+  background-color:#ffffff; 
 }
 
 .slider_section .row {
@@ -329,6 +329,15 @@ a:focus {
 }
 .slider_section .company-name {
   color: #ffffff;
+}
+.slider_section .background-slider {
+  background-color: #068f06;
+}
+.slider-logo {
+  width: 160px;
+  height: 160px;
+  margin-top: 20px;  
+  margin-bottom: 20px;
 }
 .feature_section {
   -webkit-transform: translateY(-50%);
@@ -439,7 +448,13 @@ a:focus {
 .about_section .img-box img {
   width: 100%;
 }
-
+.about_section .thu-ngo {
+  padding-top: 50px;
+}
+.about_section .signature {
+  width: 200px;
+  float: right;
+}
 .professional_section {
   background-color: #d1e3ff;
 }
