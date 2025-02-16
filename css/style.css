@@ -489,7 +489,9 @@ a:focus {
 .about_section .thu-ngo {
   padding-top: 50px;
 }
-
+.thu-ngo h4 {
+  text-align: justify !important;
+}
 .about_section .signature {
   width: 200px;
   float: right;
@@ -501,7 +503,9 @@ a:focus {
   cursor: pointer !important;
 }
 
-.about_section .detail-box .thong-tin-cty {}
+.about_section .detail-box .thong-tin-cty {
+
+}
 
 .professional_section {
   background-color: #d1e3ff;
@@ -546,7 +550,7 @@ a:focus {
 .slogan-detail {
   color: #052d03;
   font-weight: bold;
-  font-size: 16px;
+  /* font-size: 18px; */
   text-align: justify;
 }
 
